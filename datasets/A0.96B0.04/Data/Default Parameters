@@ -1,0 +1,22 @@
+Default Parameter Values:
+
+
+FCC dataset, A(0.04)B(0.96),  N = 256,0000
+a = 1 (Unit cell size)
+
+p(sim) = 0.85
+
+Incremental Clustering:
+maxNeighbors = 4
+maxIterations = 10,000
+
+Hierarchical Clustering:
+maxLevels = 4
+maxIterations = 10,000
+
+Gravitational Clustering:
+dmax = a(squareroot(10/2))
+
+
+Cluster Introduction: 
+Iterations: 50,000

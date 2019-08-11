@@ -1,0 +1,8 @@
+CSV Field Description:
+x: x coordinate
+y: y coordinate
+z: z coordinate
+type: type of atom 
+postion: FCC plance postion, corner or face
+binNumber: Valid ony after binning, default value is -1 for all. Denotes the bin number, the atom belongs to if binning has been performed. 
+corner: if the atom is a corner atom or not (Can be deduced from position)

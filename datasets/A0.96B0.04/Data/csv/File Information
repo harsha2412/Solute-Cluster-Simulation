@@ -1,0 +1,7 @@
+Each Folder contains 3 CSVs:
+1) Position and type of all atoms, sufffix: _random, _incremental, _gravitational and _hierarchical
+2) Solutes only corresponding to each distribution, suffix: _solute
+3) Complete dataset after artificial degradation: suffix: _degraded
+
+The html file shows the results for solute cluster size distribution corresponding to each clustering method
+
